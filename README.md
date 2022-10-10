@@ -1,2 +1,1 @@
-# ml-template
-A template for experimenting with machine learning
+# Machine Learning using Python and Streamlit Library
