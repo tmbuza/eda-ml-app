@@ -1,8 +1,11 @@
+.DS_Store
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+_book
 !data
+__pycache__
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
