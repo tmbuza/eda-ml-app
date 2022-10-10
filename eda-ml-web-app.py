@@ -111,7 +111,7 @@ def plot_metrics(metrics_list):
       st.subheader("Precision-Recall Curve")
       plot_precision_recall_curve(model, x_test, y_test)
       st.pyplot()
-class_names = ["edible", "poisnous"]
+class_names = ["Benign", "Malignant"]
  
 st.sidebar.subheader("Choose classifier")
 classifier = st.sidebar.selectbox("Classifier", ("Support Vector Machine (SVM)", "Logistic Regression", "Random Forest"))
