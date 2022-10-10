@@ -1,1 +1,1 @@
-# A template for experimenting with machine learning using Python and Streamlit Library
+# Machine Learning using Python and Streamlit Library
