@@ -45,7 +45,7 @@ def main():
     with st.container():
       st.success(
       """ 
-      # :shower: Data Preprocessing App
+      # :shower: Data Exploration App
       """)
       
       col1, col2 = st.columns(2)
